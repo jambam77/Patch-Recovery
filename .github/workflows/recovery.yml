@@ -2,7 +2,7 @@ name: RECOVERY
 
 on:
   workflow_dispatch:
-    inputs:
+    inputs:https://ufile.io/un6g19t5
       RECOVERY_URL:
         description: 'RECOVERY URL'
         required: true
